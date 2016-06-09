@@ -45,8 +45,6 @@ public class rightArmScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        //THIS IS A TEST!!
-
         GameObject body = GameObject.Find("body");
 
         Touch[] myTouchesAux = Input.touches;
